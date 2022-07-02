@@ -1,0 +1,5 @@
+.lab1
+numpy
+time
+pprint.pprint
+json

@@ -1,0 +1,102 @@
+[
+  {
+    "array size": 500,
+    "Odd-Even Sort time": 0.042022705078125,
+    "Heap Sort time": 0.0029985904693603516
+  },
+  {
+    "array size": 1000,
+    "Odd-Even Sort time": 0.21995329856872559,
+    "Heap Sort time": 0.010000467300415039
+  },
+  {
+    "array size": 1500,
+    "Odd-Even Sort time": 0.40302205085754395,
+    "Heap Sort time": 0.01402902603149414
+  },
+  {
+    "array size": 2000,
+    "Odd-Even Sort time": 0.752650260925293,
+    "Heap Sort time": 0.021998167037963867
+  },
+  {
+    "array size": 2500,
+    "Odd-Even Sort time": 1.218747854232788,
+    "Heap Sort time": 0.02299976348876953
+  },
+  {
+    "array size": 3000,
+    "Odd-Even Sort time": 1.813654899597168,
+    "Heap Sort time": 0.029022693634033203
+  },
+  {
+    "array size": 3500,
+    "Odd-Even Sort time": 2.4178307056427,
+    "Heap Sort time": 0.035006046295166016
+  },
+  {
+    "array size": 4000,
+    "Odd-Even Sort time": 3.148571729660034,
+    "Heap Sort time": 0.039955854415893555
+  },
+  {
+    "array size": 4500,
+    "Odd-Even Sort time": 4.274752140045166,
+    "Heap Sort time": 0.09700322151184082
+  },
+  {
+    "array size": 5000,
+    "Odd-Even Sort time": 5.035245180130005,
+    "Heap Sort time": 0.06605839729309082
+  },
+  {
+    "array size": 5500,
+    "Odd-Even Sort time": 6.169615983963013,
+    "Heap Sort time": 0.05995011329650879
+  },
+  {
+    "array size": 6000,
+    "Odd-Even Sort time": 7.296499252319336,
+    "Heap Sort time": 0.06803250312805176
+  },
+  {
+    "array size": 6500,
+    "Odd-Even Sort time": 8.691039800643921,
+    "Heap Sort time": 0.07400107383728027
+  },
+  {
+    "array size": 7000,
+    "Odd-Even Sort time": 10.44665813446045,
+    "Heap Sort time": 0.07899951934814453
+  },
+  {
+    "array size": 7500,
+    "Odd-Even Sort time": 10.939017534255981,
+    "Heap Sort time": 0.07999992370605469
+  },
+  {
+    "array size": 8000,
+    "Odd-Even Sort time": 13.759205102920532,
+    "Heap Sort time": 0.09919619560241699
+  },
+  {
+    "array size": 8500,
+    "Odd-Even Sort time": 14.425032138824463,
+    "Heap Sort time": 0.09317970275878906
+  },
+  {
+    "array size": 9000,
+    "Odd-Even Sort time": 15.68982720375061,
+    "Heap Sort time": 0.10048198699951172
+  },
+  {
+    "array size": 9500,
+    "Odd-Even Sort time": 19.025387287139893,
+    "Heap Sort time": 0.11302423477172852
+  },
+  {
+    "array size": 10000,
+    "Odd-Even Sort time": 19.93257427215576,
+    "Heap Sort time": 0.13505792617797852
+  }
+]
