@@ -1,102 +1,102 @@
 [
   {
+    "array size": 50,
+    "Odd-Even Sort time": 0.001001119613647461,
+    "Heap Sort time": 0.0
+  },
+  {
+    "array size": 100,
+    "Odd-Even Sort time": 0.0019981861114501953,
+    "Heap Sort time": 0.0
+  },
+  {
+    "array size": 150,
+    "Odd-Even Sort time": 0.00400090217590332,
+    "Heap Sort time": 0.001001119613647461
+  },
+  {
+    "array size": 200,
+    "Odd-Even Sort time": 0.007999420166015625,
+    "Heap Sort time": 0.0009996891021728516
+  },
+  {
+    "array size": 250,
+    "Odd-Even Sort time": 0.01100015640258789,
+    "Heap Sort time": 0.0009987354278564453
+  },
+  {
+    "array size": 300,
+    "Odd-Even Sort time": 0.016002178192138672,
+    "Heap Sort time": 0.0019989013671875
+  },
+  {
+    "array size": 350,
+    "Odd-Even Sort time": 0.02300119400024414,
+    "Heap Sort time": 0.0019989013671875
+  },
+  {
+    "array size": 400,
+    "Odd-Even Sort time": 0.028998613357543945,
+    "Heap Sort time": 0.003000020980834961
+  },
+  {
+    "array size": 450,
+    "Odd-Even Sort time": 0.0420382022857666,
+    "Heap Sort time": 0.00299835205078125
+  },
+  {
     "array size": 500,
-    "Odd-Even Sort time": 0.042022705078125,
-    "Heap Sort time": 0.0029985904693603516
+    "Odd-Even Sort time": 0.04496407508850098,
+    "Heap Sort time": 0.004002809524536133
+  },
+  {
+    "array size": 550,
+    "Odd-Even Sort time": 0.052045583724975586,
+    "Heap Sort time": 0.0039789676666259766
+  },
+  {
+    "array size": 600,
+    "Odd-Even Sort time": 0.06397342681884766,
+    "Heap Sort time": 0.005002021789550781
+  },
+  {
+    "array size": 650,
+    "Odd-Even Sort time": 0.07599902153015137,
+    "Heap Sort time": 0.005032777786254883
+  },
+  {
+    "array size": 700,
+    "Odd-Even Sort time": 0.09004426002502441,
+    "Heap Sort time": 0.005999088287353516
+  },
+  {
+    "array size": 750,
+    "Odd-Even Sort time": 0.09964847564697266,
+    "Heap Sort time": 0.006022214889526367
+  },
+  {
+    "array size": 800,
+    "Odd-Even Sort time": 0.12410569190979004,
+    "Heap Sort time": 0.006002187728881836
+  },
+  {
+    "array size": 850,
+    "Odd-Even Sort time": 0.13100051879882812,
+    "Heap Sort time": 0.007009744644165039
+  },
+  {
+    "array size": 900,
+    "Odd-Even Sort time": 0.21100664138793945,
+    "Heap Sort time": 0.007994651794433594
+  },
+  {
+    "array size": 950,
+    "Odd-Even Sort time": 0.16797590255737305,
+    "Heap Sort time": 0.007010936737060547
   },
   {
     "array size": 1000,
-    "Odd-Even Sort time": 0.21995329856872559,
-    "Heap Sort time": 0.010000467300415039
-  },
-  {
-    "array size": 1500,
-    "Odd-Even Sort time": 0.40302205085754395,
-    "Heap Sort time": 0.01402902603149414
-  },
-  {
-    "array size": 2000,
-    "Odd-Even Sort time": 0.752650260925293,
-    "Heap Sort time": 0.021998167037963867
-  },
-  {
-    "array size": 2500,
-    "Odd-Even Sort time": 1.218747854232788,
-    "Heap Sort time": 0.02299976348876953
-  },
-  {
-    "array size": 3000,
-    "Odd-Even Sort time": 1.813654899597168,
-    "Heap Sort time": 0.029022693634033203
-  },
-  {
-    "array size": 3500,
-    "Odd-Even Sort time": 2.4178307056427,
-    "Heap Sort time": 0.035006046295166016
-  },
-  {
-    "array size": 4000,
-    "Odd-Even Sort time": 3.148571729660034,
-    "Heap Sort time": 0.039955854415893555
-  },
-  {
-    "array size": 4500,
-    "Odd-Even Sort time": 4.274752140045166,
-    "Heap Sort time": 0.09700322151184082
-  },
-  {
-    "array size": 5000,
-    "Odd-Even Sort time": 5.035245180130005,
-    "Heap Sort time": 0.06605839729309082
-  },
-  {
-    "array size": 5500,
-    "Odd-Even Sort time": 6.169615983963013,
-    "Heap Sort time": 0.05995011329650879
-  },
-  {
-    "array size": 6000,
-    "Odd-Even Sort time": 7.296499252319336,
-    "Heap Sort time": 0.06803250312805176
-  },
-  {
-    "array size": 6500,
-    "Odd-Even Sort time": 8.691039800643921,
-    "Heap Sort time": 0.07400107383728027
-  },
-  {
-    "array size": 7000,
-    "Odd-Even Sort time": 10.44665813446045,
-    "Heap Sort time": 0.07899951934814453
-  },
-  {
-    "array size": 7500,
-    "Odd-Even Sort time": 10.939017534255981,
-    "Heap Sort time": 0.07999992370605469
-  },
-  {
-    "array size": 8000,
-    "Odd-Even Sort time": 13.759205102920532,
-    "Heap Sort time": 0.09919619560241699
-  },
-  {
-    "array size": 8500,
-    "Odd-Even Sort time": 14.425032138824463,
-    "Heap Sort time": 0.09317970275878906
-  },
-  {
-    "array size": 9000,
-    "Odd-Even Sort time": 15.68982720375061,
-    "Heap Sort time": 0.10048198699951172
-  },
-  {
-    "array size": 9500,
-    "Odd-Even Sort time": 19.025387287139893,
-    "Heap Sort time": 0.11302423477172852
-  },
-  {
-    "array size": 10000,
-    "Odd-Even Sort time": 19.93257427215576,
-    "Heap Sort time": 0.13505792617797852
+    "Odd-Even Sort time": 0.1690351963043213,
+    "Heap Sort time": 0.009000062942504883
   }
 ]
